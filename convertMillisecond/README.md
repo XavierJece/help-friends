@@ -12,4 +12,4 @@ For hours and minutes only whole numbers are accepted and for the second it must
 
 ## Solution
 
-[File](./convertMillisecond/index.js)
+[File](./index.js)
